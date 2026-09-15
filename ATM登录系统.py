@@ -32,7 +32,7 @@ while True:
         else:
             balance = balance - int(remove)
     elif choice == '4':
-        print('Have a nice day!')
+        print('Have an nice day!')
         break
     else:
         print('enter a valid choice: ')
